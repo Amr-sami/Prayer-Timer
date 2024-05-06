@@ -64,6 +64,7 @@ export default function MainContent() {
         const response = await axios.get(`https://api.aladhan.com/v1/timingsByCity?city=${city.apiName}&country=SA`);
         setTimings(response.data.data.timings);
     }
+    // comment
 
 
     useEffect(() => {
