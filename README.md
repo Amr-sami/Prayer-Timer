@@ -10,3 +10,5 @@ Dynamic calculation of the remaining time until the next prayer, updating every 
 Background image changes based on the selected city, providing a visual representation of the location.
 User interface elements for selecting a city from a predefined list, enabling users to switch between different locations easily.
 This component integrates various UI components from the Material-UI library, including Grid, Divider, Stack, Select, MenuItem, and FormControl, to create a visually appealing and functional interface. Additionally, it utilizes asynchronous data fetching with axios, moment-timezone for timezone handling, and useState and useEffect hooks for managing state and lifecycle events, respectively.
+## You can try it on netlify : 
+ ### https://66387afa8807c08733abd995--reliable-selkie-d5c3ce.netlify.app/
